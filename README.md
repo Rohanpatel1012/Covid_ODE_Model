@@ -6,6 +6,12 @@ There are some initializing questions the model will ask you that serves as init
 the social distancing button allows you to control the amount of people social distancing! 
 Make sure to re-calculate anytime new parameters are placed!
 
+Questions that commonly come up:
+Exposed refers to the amount of people that can easly get the virus or have the virus and do not know!
+The model does not consider the second wave and it believes once you have the virus you can not get it again!
+
+
+
 P.s.
 If you have Matlab use the matlab code!
 If you do not have matlab please use the .exe that runs the software as a standalone app!
