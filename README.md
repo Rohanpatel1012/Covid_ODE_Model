@@ -9,7 +9,7 @@ Make sure to re-calculate anytime new parameters are placed!
 Questions that commonly come up:
 Exposed refers to the amount of people that can easly get the virus or have the virus and do not know!
 The model does not consider the second wave and it believes once you have the virus you can not get it again!
-
+Also use this website for a lot of the initial questions: https://www.vdh.virginia.gov/coronavirus/
 
 
 P.s.
