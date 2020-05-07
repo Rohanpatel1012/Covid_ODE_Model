@@ -5,3 +5,7 @@ Just run the code in Matlab and a GUI should appear!
 There are some initializing questions the model will ask you that serves as initial conditions! Moreover there is a social distancing button!
 the social distancing button allows you to control the amount of people social distancing! 
 Make sure to re-calculate anytime new parameters are placed!
+
+P.s.
+If you have Matlab use the matlab code!
+If you do not have matlab please use the .exe that runs the software as a standalone app!
